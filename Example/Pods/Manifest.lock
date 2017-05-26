@@ -1,0 +1,16 @@
+PODS:
+  - MyFirstCocoaLib (0.1.0)
+
+DEPENDENCIES:
+  - MyFirstCocoaLib (from `../`)
+
+EXTERNAL SOURCES:
+  MyFirstCocoaLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MyFirstCocoaLib: 88c5ab717fcea5853b2981bcf99d50230d20c4af
+
+PODFILE CHECKSUM: 5c080d61995bf7d2c53c56645f259eb6513ebbfe
+
+COCOAPODS: 1.2.0

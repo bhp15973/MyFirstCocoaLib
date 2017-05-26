@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstCocoaLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyFirstCocoaLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bhp15973@gmail.com/MyFirstCocoaLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bhp15973@gmail.com": "bartlomiej.maciejewski@adtoma.com"
+  },
+  "source": {
+    "git": "https://github.com/bhp15973@gmail.com/MyFirstCocoaLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFirstCocoaLib/Classes/**/*"
+}
